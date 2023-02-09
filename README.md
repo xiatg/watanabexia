@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watanabexia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watanabexia&exclude_repo=Camera-Imitation&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **watanabexia/watanabexia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
